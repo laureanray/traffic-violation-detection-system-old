@@ -1,0 +1,6 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    text-align: left;
+}

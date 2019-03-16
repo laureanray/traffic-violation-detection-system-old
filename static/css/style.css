@@ -1,0 +1,22 @@
+body {
+    font-family: 'Gotham', sans-serif!important;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.camera-preview-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.camera-preview-container h1 {
+    font-weight: 300;
+}
+
+.camera-preview-container #bg {
+}

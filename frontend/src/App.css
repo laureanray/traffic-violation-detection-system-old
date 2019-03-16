@@ -1,0 +1,16 @@
+.App {
+  margin: auto;
+  height: 80vh;
+}
+
+.App h1 {
+  font-family: 'Gotham', sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.App .subtitle {
+  font-size: 14px;
+  color: #888888;
+  text-transform: lowercase;
+}
